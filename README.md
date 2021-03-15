@@ -1,2 +1,2 @@
-# Coursera_Capstone
-My Coursera Capstone Project
+# IBM Coursera_Capstone Project
+My IBM Coursera Capstone Project
